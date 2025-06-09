@@ -1,0 +1,10 @@
+ch=0
+w="hello"
+for i in w:
+    print(i)      
+    ch=ch+1
+print("no of characters in string is", ch) 
+# Output: no of characters in string is 5
+# This code counts the number of characters in a string input by the user.
+# Note: The code has been corrected to ensure proper indentation and syntax.
+# The original code had indentation issues and syntax errors.               
